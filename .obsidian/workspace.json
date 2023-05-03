@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "779b92f70b0ecd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "4960ce95d9d0e2d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7bc2a4998faf38c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230503010615.png"
+              }
+            }
+          },
+          {
+            "id": "098b529337da80fb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230503010711.png"
+              }
+            }
+          },
+          {
+            "id": "ca6a1bca9b54ac2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Detectors/Bethe-Bloch Equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "678b3d7b506d8083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Detectors/Wire Chambers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cef9da32233a825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Detectors/Wire Chambers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe5f885aefa4e7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "080ae369349199ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37a19b367f5b6ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7e1cfddaf8284b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17b9ce60b1686584",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67f0cb92b1838df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee226205cf3b31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9960169869870dce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Detectors/Wire Chambers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fc3461890e10fad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Detectors/Wire Chambers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6533d2765c60fc40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ec09b99e9a84b7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Detectors/Wire Chambers.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2cef9da32233a825",
+  "lastOpenFiles": [
+    "Detectors/Proportional Tubes.md",
+    "Detectors/Wire Chambers.md",
+    "Detectors/Bethe-Bloch Equation.md",
+    "Detectors/TPCs.md",
+    "Detectors/Silicon.md",
+    "Assets/Pasted image 20230503010711.png",
+    "Assets/Pasted image 20230503010615.png",
+    "Particle/Dark Matter/Axion.md",
+    "Assets/Pasted image 20230503010402.png",
+    "Pasted image 20230503010339.png",
+    "Particle/Standard Model/Kaon Oscillations.md",
+    "SpinQuest/Values to Memorize.md",
+    "Assets/Pasted image 20230503005354.png",
+    "SpinQuest/Spectrometer.md",
+    "Assets/Pasted image 20230503002135.png",
+    "SpinQuest/DarkQuest Upgrade.md",
+    "Particle/Dark Matter/Cosmic Microwave Background.md",
+    "Assets/Pasted image 20230503001921.png",
+    "Nuclear/Nuclear Binding Energy.md",
+    "Detectors/Electromagnetic Calorimeter.md",
+    "Nuclear/Magic Numbers.md",
+    "Nuclear/Liquid Drop Model.md",
+    "Nuclear/Nuclear Equation of State.md",
+    "Nuclear/Proton Spin Problem.md",
+    "Particle/Standard Model/Electroweak Interactions.md",
+    "Particle/Standard Model/Neutrinos.md",
+    "Particle/Standard Model/Hadrons.md",
+    "Particle/Standard Model/Standard Model.md",
+    "Particle/Standard Model/Strong Interactions.md",
+    "Particle/Dark Matter/Dark Matter.md",
+    "Particle/Dark Matter/Dark Photon.md",
+    "Particle/Dark Matter/Galaxy Rotation Curves.md",
+    "Particle/Dark Matter/Gravitational Lensing.md",
+    "Assets/Pasted image 20230429161049.png",
+    "Pasted image 20230429161032.png",
+    "Particle/Standard Model",
+    "Assets/Pasted image 20230422155809.png",
+    "Assets",
+    "Particle/Dark Matter",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "SpinQuest",
+    "Detectors/img",
+    "Image",
+    "Detectors",
+    "Particle",
+    "Nuclear"
+  ]
+}

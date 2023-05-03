@@ -1,1 +1,0 @@
-# nupax-qual-wiki

@@ -1,0 +1,13 @@
+ - Formed at recombination
+	 - Ionized hydrogen atoms recombine with electrons and become electrically neutral
+	 - 400M years ago
+ - No major interactions since (until it hits telescopes)
+ - Mostly isotropic with some fluctuations
+	 - Gives good, clear picture of early universe at recombination
+	 - Oscillations in temp/density from competing radiation pressure and gravity
+	 - Studies of oscillations being driven/damped yields information about dark matter
+ - Model universe as photon bath + baryonic matter fluid + decoupled dark matter + dark radiation (neutrinos)
+	  - No radiation pressure on dark matter
+	  - Separation of effects on oscillation from baryons
+	  - Model fits data well with ~5x more dark matter than normal matter
+![[Pasted image 20230503001921.png]]

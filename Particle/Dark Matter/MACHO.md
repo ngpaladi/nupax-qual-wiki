@@ -1,0 +1,3 @@
+ - Massive Compact Halo Objects
+	 - Large dead stars?
+	 - Unlikely, would create gravitational lensing ("divots" in spacetime) we likely would have seen
