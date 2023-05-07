@@ -1,13 +1,13 @@
- - Universe mostly not Standard Model
-	 - ~5% Standard Model
-	 - ~25% Dark Matter
-	 - ~70% Dark Energy
+- Universe mostly not Standard Model
+	- ~5% [[Standard Model]]
+	- ~25% [[Dark Matter]]
+	- ~70% Dark Energy
 
 ## Main motivating factors:
 1. [[Galaxy Rotation Curves]]
 2. [[Gravitational Lensing]]
 3. [[Cosmic Microwave Background]]
-4. [[Large Scale Structure]]
+
 
 ## Hot vs Cold
  - Impacts structure formation
@@ -28,7 +28,7 @@
 	 - If there are non-negligible interactions with the SM (not guarnteed) then DM may be kinetically coupled to SM particles in the early universe
 
 ## Possible candidates:
- - [[Dark Photon]]
- - [[Axion]]
- - [[WIMP]]
- - [[MACHO]]
+ - [[Dark Photons]]
+ - [[Axions]]
+ - [[WIMPs]]
+ - [[MACHOs]]

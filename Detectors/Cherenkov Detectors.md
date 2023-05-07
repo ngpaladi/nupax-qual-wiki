@@ -1,0 +1,4 @@
+ - Cherenkov light emitted when $v>c/n$
+ - Emitted at angle $\cos \theta = \frac{1}{n\beta}$ where $\beta = v/c$
+ - 
+ - 

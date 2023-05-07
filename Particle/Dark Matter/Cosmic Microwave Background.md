@@ -1,6 +1,8 @@
+
  - Formed at recombination
 	 - Ionized hydrogen atoms recombine with electrons and become electrically neutral
 	 - 400M years ago
+	 - Leads to [[Large Scale Structure]]
  - No major interactions since (until it hits telescopes)
  - Mostly isotropic with some fluctuations
 	 - Gives good, clear picture of early universe at recombination

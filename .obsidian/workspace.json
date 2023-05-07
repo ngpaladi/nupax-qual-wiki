@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7bc2a4998faf38c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230503010615.png"
-              }
-            }
-          },
-          {
-            "id": "098b529337da80fb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230503010711.png"
-              }
-            }
-          },
-          {
-            "id": "ca6a1bca9b54ac2f",
+            "id": "1da8c25268fa6d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detectors/Bethe-Bloch Equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "678b3d7b506d8083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Detectors/Wire Chambers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cef9da32233a825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Detectors/Wire Chambers.md",
+                "file": "SpinQuest/Thesis Talk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "45e7eb49a130c441",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -130,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detectors/Wire Chambers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detectors/Wire Chambers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Detectors/Wire Chambers.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -191,54 +150,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cef9da32233a825",
+  "active": "e37a19b367f5b6ab",
   "lastOpenFiles": [
-    "Detectors/Proportional Tubes.md",
-    "Detectors/Wire Chambers.md",
-    "Detectors/Bethe-Bloch Equation.md",
-    "Detectors/TPCs.md",
-    "Detectors/Silicon.md",
-    "Assets/Pasted image 20230503010711.png",
-    "Assets/Pasted image 20230503010615.png",
-    "Particle/Dark Matter/Axion.md",
-    "Assets/Pasted image 20230503010402.png",
-    "Pasted image 20230503010339.png",
-    "Particle/Standard Model/Kaon Oscillations.md",
-    "SpinQuest/Values to Memorize.md",
-    "Assets/Pasted image 20230503005354.png",
+    "2023-05-06.md",
+    "Untitled.canvas",
+    "IceCube/Special Topic Talk.md",
+    "SpinQuest/Thesis Talk.md",
+    "Particle/Dark Matter/Dark Photons.md",
+    "Assets/Pasted image 20230506204301.png",
+    "Assets/Pasted image 20230506203903.png",
+    "SpinQuest/SpinQuest.md",
+    "Particle/Dark Matter/Dark Energy.md",
+    "SpinQuest/Spin-Polarized Target.md",
+    "Assets/Pasted image 20230218144356.png",
+    "Detectors/Drift Chambers.md",
+    "Assets/Pasted image 20230506202320.png",
+    "Particle/Common Processes/Drell-Yan.md",
+    "Assets/Pasted image 20230506203028.png",
+    "Particle/Common Processes/Pair Production.md",
+    "Particle/Common Processes/Neutrino Scattering.md",
+    "Particle/Common Processes/Light-by-Light Scattering.md",
+    "Particle/Untitled.md",
+    "Particle/Common Processes",
+    "SpinQuest/Phenix.md",
+    "Nuclear/Deep Inelastic Scattering.md",
     "SpinQuest/Spectrometer.md",
-    "Assets/Pasted image 20230503002135.png",
-    "SpinQuest/DarkQuest Upgrade.md",
-    "Particle/Dark Matter/Cosmic Microwave Background.md",
-    "Assets/Pasted image 20230503001921.png",
-    "Nuclear/Nuclear Binding Energy.md",
-    "Detectors/Electromagnetic Calorimeter.md",
-    "Nuclear/Magic Numbers.md",
-    "Nuclear/Liquid Drop Model.md",
-    "Nuclear/Nuclear Equation of State.md",
     "Nuclear/Proton Spin Problem.md",
-    "Particle/Standard Model/Electroweak Interactions.md",
-    "Particle/Standard Model/Neutrinos.md",
-    "Particle/Standard Model/Hadrons.md",
-    "Particle/Standard Model/Standard Model.md",
-    "Particle/Standard Model/Strong Interactions.md",
-    "Particle/Dark Matter/Dark Matter.md",
-    "Particle/Dark Matter/Dark Photon.md",
-    "Particle/Dark Matter/Galaxy Rotation Curves.md",
-    "Particle/Dark Matter/Gravitational Lensing.md",
-    "Assets/Pasted image 20230429161049.png",
-    "Pasted image 20230429161032.png",
+    "Particle/Beyond Standard Model/Stueckelberg Mechanism.md",
+    "Particle/Standard Model/Higgs Mechanism.md",
+    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
+    "Particle/Beyond Standard Model/Neutrino Mass.md",
+    "Particle/Dark Matter/Cosmic Microwave Background.md",
+    "Particle/Dark Matter/MACHOs.md",
+    "Particle/Dark Matter/Large Scale Structure.md",
+    "Particle/Dark Matter/WIMPs.md",
+    "Particle/Dark Matter/Axions.md",
+    "Assets/Pasted image 20230506194616.png",
+    "Assets/Pasted image 20230506194930.png",
+    "Assets/Pasted image 20230506194722.png",
+    "Assets/Pasted image 20230506194633.png",
+    "Untitled",
+    "IceCube",
+    "Assets/Pasted image 20230503010711.png",
+    "Particle/Beyond Standard Model",
+    "Particle/Cosmology",
     "Particle/Standard Model",
-    "Assets/Pasted image 20230422155809.png",
     "Assets",
     "Particle/Dark Matter",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "SpinQuest",
-    "Detectors/img",
-    "Image",
-    "Detectors",
-    "Particle",
-    "Nuclear"
+    "Detectors/img"
   ]
 }

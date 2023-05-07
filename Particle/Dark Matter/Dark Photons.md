@@ -1,0 +1,6 @@
+ - https://arxiv.org/pdf/2104.10280.pdf
+ - U(1) extension of the Standard Model
+ - Adds Lagrangian terms: $${\displaystyle {\mathcal {L}}\supset -{\frac {1}{4}}F^{\prime \mu \nu }F_{\mu \nu }^{\prime }+{\frac {1}{2}}m_{A^{\prime }}^{2}A^{\prime \mu }A_{\mu }^{\prime }+\epsilon eA^{\prime \mu }J_{\mu }^{EM} + \mathcal{L_{\chi\chi}}}$$
+ - Decay rates $$ \Gamma_{A' \rightarrow l^+ l^-} = \frac{1}{3}\epsilon^2 \alpha_{EM} m_{A'} \left(1+2\frac{m^2_{l}}{m^2_{A'}}\right)\sqrt{1-4\frac{m^2_{l}}{m^2_{A'}}}$$
+- ![[Pasted image 20230506204301.png]]
+ - Peaks correspond with rho, phi meson

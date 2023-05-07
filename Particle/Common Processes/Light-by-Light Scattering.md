@@ -1,0 +1,1 @@
+Box diagram with electrons

@@ -1,0 +1,2 @@
+ - Experiment at RHIC at BNL 
+ - Search for QGP

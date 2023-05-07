@@ -6,4 +6,4 @@
 	 - Track pairs of muons from Drell-Yan processes, with goal of measuring anisotropies to give form of Sivers Function
 		 - [[Spectrometer]]
 	 - Increase sensitivity to dark matter candidates via the [[DarkQuest Upgrade]]
- - [[Values to Memorize]]
+ - [[DarkQuest Specifications]]

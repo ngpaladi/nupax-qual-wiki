@@ -1,0 +1,2 @@
+ - Contributes to the accelerating expansion of the universe
+ - Hinted at from supernova observations

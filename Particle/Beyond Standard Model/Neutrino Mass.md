@@ -1,0 +1,4 @@
+ - Neutrino oscillations support idea neutrinos have mass
+ - Mixing determined by $3\times3$ PMNS matrix: $$\begin{pmatrix} \nu_e \\ \nu_\mu \\\nu_\tau\end{pmatrix} = \Bigg(PMNS\Bigg) \begin{pmatrix} \nu_1 \\ \nu_2 \\\nu_3\end{pmatrix}$$
+	 - Parameterized by 3 angles and 1 complex phase
+	 - 
