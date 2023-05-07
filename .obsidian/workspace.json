@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4960ce95d9d0e2d5",
+        "id": "61a08f3df37d7ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "1da8c25268fa6d2e",
+            "id": "526043372e9e161f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff to Remember.md"
+                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md"
               }
             }
           }
@@ -155,48 +155,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1da8c25268fa6d2e",
+  "active": "526043372e9e161f",
   "lastOpenFiles": [
+    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
+    "Particle/Standard Model/Neutrinos.md",
+    "Particle/Standard Model/Higgs Mechanism.md",
+    "Pasted image 20230507163203.png",
+    "Nuclear/Untitled.md",
+    "Nuclear/Stellar Nucelosynthesis.md",
+    "Nuclear/Heavy Nuclei Production.md",
+    "Nuclear/Fission.md",
+    "Nuclear/Fusion.md",
+    "Nuclear/Baryons.md",
+    "Nuclear/Mesons.md",
+    "Pasted image 20230507144556.png",
+    "Pasted image 20230507144412.png",
+    "Stuff to Remember.md",
     "IceCube/Special Topic Talk.md",
+    "IceCube/IceCube Detector.md",
+    "Assets/Pasted image 20230507140248.png",
+    "Particle/Dark Matter/WIMPs.md",
+    "Assets/Pasted image 20230507140159.png",
+    "Assets/Pasted image 20230507135940.png",
+    "Detectors/Synchrotron Radiation.md",
+    "Particle/Dark Matter/Gravitational Lensing.md",
+    "Particle/Dark Matter/Galaxy Rotation Curves.md",
+    "Particle/Dark Matter/Dark Photons.md",
+    "Particle/Dark Matter/Dark Matter.md",
+    "Particle/Dark Matter/Dark Energy.md",
+    "Assets/Pasted image 20230507131531.png",
+    "SpinQuest/Thesis Talk.md",
+    "Particle/Dark Matter/Lambda CDM.md",
+    "Particle/Cosmology/History of the Universe.md",
+    "Particle/Dark Matter/Axions.md",
     "Nuclear/Electron-Proton Scattering.md",
     "Nuclear/Deep Inelastic Scattering.md",
-    "Nuclear/Proton Substructure.md",
-    "Particle/Beyond Standard Model/Neutrino Oscillations.md",
-    "Particle/Common Processes/Pair Production.md",
-    "Particle/Common Processes/Neutrino Scattering.md",
-    "Particle/Common Processes/Light-by-Light Scattering.md",
-    "Particle/Common Processes/Drell-Yan.md",
-    "Nuclear/Deuteron.md",
-    "Particle/Cosmology/History of the Universe.md",
-    "SpinQuest/Thesis Talk.md",
-    "2023-05-06.md",
     "Untitled.canvas",
-    "Particle/Dark Matter/Dark Photons.md",
     "Assets/Pasted image 20230506204301.png",
     "Assets/Pasted image 20230506203903.png",
-    "SpinQuest/SpinQuest.md",
-    "Particle/Dark Matter/Dark Energy.md",
-    "SpinQuest/Spin-Polarized Target.md",
     "Assets/Pasted image 20230218144356.png",
-    "Detectors/Drift Chambers.md",
-    "Assets/Pasted image 20230506202320.png",
-    "Assets/Pasted image 20230506203028.png",
-    "Particle/Untitled.md",
     "Particle/Common Processes",
-    "SpinQuest/Phenix.md",
-    "SpinQuest/Spectrometer.md",
-    "Nuclear/Proton Spin Problem.md",
-    "Particle/Beyond Standard Model/Stueckelberg Mechanism.md",
-    "Particle/Standard Model/Higgs Mechanism.md",
-    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
-    "Particle/Dark Matter/Cosmic Microwave Background.md",
-    "Assets/Pasted image 20230506194616.png",
-    "Assets/Pasted image 20230506194930.png",
-    "Assets/Pasted image 20230506194722.png",
-    "Assets/Pasted image 20230506194633.png",
     "Untitled",
     "IceCube",
-    "Assets/Pasted image 20230503010711.png",
     "Particle/Beyond Standard Model",
     "Particle/Cosmology",
     "Particle/Standard Model",

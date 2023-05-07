@@ -4,8 +4,8 @@
 ![[Pasted image 20230429161049.png]]
 
 ## Hadrons
-### Mesons
- - Parity $P = (-1)^{L+1}$ 
+### [[Mesons]]
+ - $P = (-1)^{L+1}$  
 | Name | Quark Content | Mass | Isospin | $J^{PC}$ | $c\tau$ | Primary Decay |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | $\pi^\pm$ | $u\overline{d}$, $d\overline{u}$| 140 MeV | $\pm$ 1 | $0^{-}$ | 8 m | $\mu^+\nu_\mu$, $\mu^-\overline{\nu}_\mu$ |
@@ -14,9 +14,7 @@
 | $\eta$' | $(u\overline{u}+d\overline{d} + s\overline{s})/\sqrt{3}$ | 960 MeV | 0 | $0^{-+}$ | Prompt | $\pi^+\pi^-\eta$, $\rho^0\gamma$|
 
 
-
-
-### Baryons
+### [[Baryons]]
 
 ## Shell Model
 

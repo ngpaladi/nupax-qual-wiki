@@ -3,8 +3,8 @@
 2. Atmospheric Neutrinos
 3. IceCube
 
-## Neutrino Oscillations
+## [[Neutrino Oscillations]]
  - Solar Neutrino problem
- - 
+ - PMNS Matrix 
 
-## IceCube
+## [[IceCube Detector]]
