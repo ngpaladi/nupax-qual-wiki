@@ -5,6 +5,16 @@
 
 ## Hadrons
 ### Mesons
+ - Parity $P = (-1)^{L+1}$ 
+| Name | Quark Content | Mass | Isospin | $J^{PC}$ | $c\tau$ | Primary Decay |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| $\pi^\pm$ | $u\overline{d}$, $d\overline{u}$| 140 MeV | $\pm$ 1 | $0^{-}$ | 8 m | $\mu^+\nu_\mu$, $\mu^-\overline{\nu}_\mu$ |
+| $\pi^0$ | $(u\overline{u}-d\overline{d})/\sqrt{2}$ | 135 MeV | 1 | $0^{-+}$ | 25 nm | $\gamma\gamma$ |
+| $\eta$ | $(u\overline{u}+d\overline{d} - 2s\overline{s})/\sqrt{6}$  | 550 MeV | 0 | $0^{-+}$ | Prompt | $2\gamma$, $3\pi^0$, $\pi^+\pi^-\pi^0$ |
+| $\eta$' | $(u\overline{u}+d\overline{d} + s\overline{s})/\sqrt{3}$ | 960 MeV | 0 | $0^{-+}$ | Prompt | $\pi^+\pi^-\eta$, $\rho^0\gamma$|
+
+
+
 
 ### Baryons
 

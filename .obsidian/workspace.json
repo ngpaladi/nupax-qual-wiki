@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpinQuest/Thesis Talk.md",
+                "file": "Stuff to Remember.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stuff to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stuff to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stuff to Remember.md"
+              }
             }
           }
         ],
@@ -138,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,12 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37a19b367f5b6ab",
+  "active": "1da8c25268fa6d2e",
   "lastOpenFiles": [
+    "IceCube/Special Topic Talk.md",
+    "Nuclear/Electron-Proton Scattering.md",
+    "Nuclear/Deep Inelastic Scattering.md",
+    "Nuclear/Proton Substructure.md",
+    "Particle/Beyond Standard Model/Neutrino Oscillations.md",
+    "Particle/Common Processes/Pair Production.md",
+    "Particle/Common Processes/Neutrino Scattering.md",
+    "Particle/Common Processes/Light-by-Light Scattering.md",
+    "Particle/Common Processes/Drell-Yan.md",
+    "Nuclear/Deuteron.md",
+    "Particle/Cosmology/History of the Universe.md",
+    "SpinQuest/Thesis Talk.md",
     "2023-05-06.md",
     "Untitled.canvas",
-    "IceCube/Special Topic Talk.md",
-    "SpinQuest/Thesis Talk.md",
     "Particle/Dark Matter/Dark Photons.md",
     "Assets/Pasted image 20230506204301.png",
     "Assets/Pasted image 20230506203903.png",
@@ -165,26 +180,16 @@
     "Assets/Pasted image 20230218144356.png",
     "Detectors/Drift Chambers.md",
     "Assets/Pasted image 20230506202320.png",
-    "Particle/Common Processes/Drell-Yan.md",
     "Assets/Pasted image 20230506203028.png",
-    "Particle/Common Processes/Pair Production.md",
-    "Particle/Common Processes/Neutrino Scattering.md",
-    "Particle/Common Processes/Light-by-Light Scattering.md",
     "Particle/Untitled.md",
     "Particle/Common Processes",
     "SpinQuest/Phenix.md",
-    "Nuclear/Deep Inelastic Scattering.md",
     "SpinQuest/Spectrometer.md",
     "Nuclear/Proton Spin Problem.md",
     "Particle/Beyond Standard Model/Stueckelberg Mechanism.md",
     "Particle/Standard Model/Higgs Mechanism.md",
     "Particle/Beyond Standard Model/Sterile Neutrinos.md",
-    "Particle/Beyond Standard Model/Neutrino Mass.md",
     "Particle/Dark Matter/Cosmic Microwave Background.md",
-    "Particle/Dark Matter/MACHOs.md",
-    "Particle/Dark Matter/Large Scale Structure.md",
-    "Particle/Dark Matter/WIMPs.md",
-    "Particle/Dark Matter/Axions.md",
     "Assets/Pasted image 20230506194616.png",
     "Assets/Pasted image 20230506194930.png",
     "Assets/Pasted image 20230506194722.png",
