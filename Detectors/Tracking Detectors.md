@@ -85,6 +85,7 @@
  - Kapton foil
  - Charge multiplication!
 ## 7.5 Semiconductor Track Detectors
+ - Employ [[Silicon Detectors]]
 ![[Pasted image 20230218153825.png]]
  - Electrodes in strips.pads
  - $\sigma_x$~10$\mu\text{m}$

@@ -1,0 +1,4 @@
+-  $P$ operator takes $\vec{x}\rightarrow -\vec{x}$
+-  Intrinsic parity of particles: (+1)
+-  Intrinsic parity of antiparticles: (-1)
+-  Angular momentum parity (-1)$^L$

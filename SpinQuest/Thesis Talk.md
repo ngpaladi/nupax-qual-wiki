@@ -32,7 +32,10 @@
 - Beam dump experiment with a [[Spin-Polarized Target]] of NH$_3$ or ND$_3$ with incident 120 GeV proton beam
 	- $\sqrt{s}$ = 15.5 GeV 
 - Primary physics goals:
+	- Measure transverse momentum dependent (TMD) parton distributions of protons
+		- 
 	- Displaced vertex dark matter search
+		- ALPs
 - Tracking-focused spectrometer optimized to search for asymmetry in [[Drell-Yan]] process
 	- Four tracking stations
 		- TS1-3 include [[Drift Chambers]] and scintillator panels
@@ -40,15 +43,15 @@
 				- Spatial resolution of ~200-300$\mu$m
 				- Drift time 100-200ns
 				- TDC readout resolution 1.1ns
-			- Each station contains two layers of scintillator panels oriented perpendicularly and read out by [[PhotoMultiplier Tubes]]
+			- Each station contains two layers of scintillator panels oriented perpendicularly and read out by [[PMTs]]
 				- Tracking station 3 has extra y layer
 		- TS4 sits after iron absorber wall and includes [[Proportional Tubes]] 
-			- Contains one scintillator panel
-![[Pasted image 20230503002135.png]]
+			- Contains one scintillator panel layer
+![[Pasted image 20230503002135.png|400]]
 
 
 ## [[DarkQuest Upgrade]]
- - Add sampling Electromagnetic [[Calorimeters]] from [[Phenix]] before absorber wall
+ - Add sampling Electromagnetic [[Calorimeters]] from [[PHENIX]] before absorber wall
 	 - Calorimeter uses lead-plastic scintillator'
 	 - Increase electron energy resolution
 	 - Brem recovery
@@ -56,8 +59,8 @@
 	 - Bump hunt in mass for a certain displacement
 		 - Displacement ~ $\epsilon$
  - Physics Reach:
-![[Pasted image 20230506202320.png]]
+![[Pasted image 20230506202320.png|400]]
 
 
 ## LongQuest Upgrade
-![[Pasted image 20230506203903.png]]
+![[Pasted image 20230506203903.png|400]]

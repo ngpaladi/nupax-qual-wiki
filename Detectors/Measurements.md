@@ -1,0 +1,4 @@
+ - Energy: [[Calorimeters]]
+ - Photons: [[PMTs]], [[SiPMs]], [[APDs]]
+ - Passage of charged particles: [[Silicon Detectors]], [[Drift Chambers]], [[TPCs]], [[Proportional Tubes]], [[Scintillator Panels]], [[Cherenkov Detectors]], [[GEMs]]
+	 - Can be used as position/[[Tracking Detectors]]

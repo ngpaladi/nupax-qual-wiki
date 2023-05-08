@@ -1,0 +1,3 @@
+ - "Braking Radiation"
+ - Radiation emitted by a slowing charged particle parallel to the dierection of motion
+ - Usually from nuclear magnetic fields

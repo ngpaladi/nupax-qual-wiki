@@ -1,0 +1,4 @@
+- Process: $n \rightarrow p + e^- + \overline{\nu}_e$
+	- Inverse process is electron capture $p+e^- \rightarrow n + \nu_e$
+- Hinted at neutrino because two body decay would have been monoenergetic: ![[Pasted image 20230507190113.png]]
+	- Precision measurement of $E_{max}$ would yield neutrino mass 

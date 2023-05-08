@@ -1,0 +1,3 @@
+ - Usually plastic scintillating material doped with element like flourine
+	 - Flourine emission energy roughly matches  max efficency curves for [[PMTs]]
+ - 

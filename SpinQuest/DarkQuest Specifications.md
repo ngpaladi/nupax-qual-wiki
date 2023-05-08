@@ -15,6 +15,7 @@
 | EMCal Dimensions (cm) | $5.25^2 \times 37.5\ (18X_0)$ |
 | TDC Timing Resolution | 1.177ns|
 | Readout Dead Time | 28 $\mu$s |
+
 ![[Pasted image 20230503005354.png]]
 
 

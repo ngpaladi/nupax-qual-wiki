@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61a08f3df37d7ec6",
+        "id": "bda94b6713177395",
         "type": "tabs",
         "children": [
           {
-            "id": "526043372e9e161f",
+            "id": "180cdaf87419aa08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
+                "file": "Assets/Pasted image 20230508114642.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md",
+                "file": "Assets/Pasted image 20230508114642.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Particle/Beyond Standard Model/Neutrino Oscillations.md"
+                "file": "Assets/Pasted image 20230508114642.png"
               }
             }
           }
@@ -155,55 +151,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "526043372e9e161f",
+  "active": "e37a19b367f5b6ab",
   "lastOpenFiles": [
-    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
-    "Particle/Standard Model/Neutrinos.md",
-    "Particle/Standard Model/Higgs Mechanism.md",
-    "Pasted image 20230507163203.png",
-    "Nuclear/Untitled.md",
-    "Nuclear/Stellar Nucelosynthesis.md",
-    "Nuclear/Heavy Nuclei Production.md",
-    "Nuclear/Fission.md",
-    "Nuclear/Fusion.md",
-    "Nuclear/Baryons.md",
-    "Nuclear/Mesons.md",
-    "Pasted image 20230507144556.png",
-    "Pasted image 20230507144412.png",
-    "Stuff to Remember.md",
-    "IceCube/Special Topic Talk.md",
-    "IceCube/IceCube Detector.md",
-    "Assets/Pasted image 20230507140248.png",
-    "Particle/Dark Matter/WIMPs.md",
-    "Assets/Pasted image 20230507140159.png",
-    "Assets/Pasted image 20230507135940.png",
+    "Particle/Beyond Standard Model/Supersymmetry.md",
+    "Assets/Pasted image 20230508114814.png",
     "Detectors/Synchrotron Radiation.md",
-    "Particle/Dark Matter/Gravitational Lensing.md",
-    "Particle/Dark Matter/Galaxy Rotation Curves.md",
-    "Particle/Dark Matter/Dark Photons.md",
     "Particle/Dark Matter/Dark Matter.md",
-    "Particle/Dark Matter/Dark Energy.md",
-    "Assets/Pasted image 20230507131531.png",
-    "SpinQuest/Thesis Talk.md",
-    "Particle/Dark Matter/Lambda CDM.md",
-    "Particle/Cosmology/History of the Universe.md",
-    "Particle/Dark Matter/Axions.md",
-    "Nuclear/Electron-Proton Scattering.md",
+    "Particle/Common Processes/Pair Production.md",
+    "Assets/Pasted image 20230508114642.png",
+    "Particle/Common Processes/pp Collisions.md",
+    "Particle/Common Processes/Neutrino Scattering.md",
+    "Particle/Common Processes/Light-by-Light Scattering.md",
+    "Assets/Pasted image 20230508114546.png",
+    "Assets/Pasted image 20230508110512.png",
+    "Particle/Beyond Standard Model/Neutrino Mass.md",
+    "Assets/Pasted image 20230508113718.png",
+    "Assets/Pasted image 20230508113107.png",
+    "IceCube/Special Topic Talk.md",
     "Nuclear/Deep Inelastic Scattering.md",
+    "IceCube/IceCube Detector.md",
+    "SpinQuest/Thesis Talk.md",
+    "Stuff to Remember.md",
+    "Assets/Pasted image 20230508095023.png",
+    "Assets/Pasted image 20230508104255.png",
+    "Assets/Pasted image 20230508104246.png",
+    "IceCube/Digital Optical Modules.md",
+    "Nuclear/Nuclear Decays.md",
+    "Nuclear/Beta Decay.md",
+    "Nuclear/Parity.md",
+    "Nuclear/Quark-Gluon Plasma.md",
+    "Detectors/Bethe-Bloch Equation.md",
+    "SpinQuest/SpinQuest.md",
+    "SpinQuest/DarkQuest Specifications.md",
+    "Particle/Beyond Standard Model/Neutrino Oscillations.md",
+    "Assets/Pasted image 20230508010549.png",
+    "Detectors/Cherenkov Detectors.md",
+    "Detectors/Proportional Tubes.md",
+    "Particle/Dark Matter/Lambda CDM.md",
+    "Nuclear/Nucleon Substructure",
+    "Nuclear/Precision Measurements",
+    "Nuclear/Hadrons",
+    "Nuclear/Models of the Nucleus",
+    "Nuclear/Stellar Nucleosynthesis",
     "Untitled.canvas",
-    "Assets/Pasted image 20230506204301.png",
-    "Assets/Pasted image 20230506203903.png",
-    "Assets/Pasted image 20230218144356.png",
     "Particle/Common Processes",
     "Untitled",
     "IceCube",
     "Particle/Beyond Standard Model",
     "Particle/Cosmology",
-    "Particle/Standard Model",
-    "Assets",
-    "Particle/Dark Matter",
-    "Untitled 1.canvas",
-    "SpinQuest",
-    "Detectors/img"
+    "Untitled 1.canvas"
   ]
 }

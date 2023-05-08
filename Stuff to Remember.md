@@ -1,6 +1,10 @@
 ## Detectors
- - Bethe-Bloch: $$-\left\langle {\frac {dE}{dx}}\right\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon _{0}}}\right)^{2}\cdot \left[\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right]$$
+ - [[Bethe-Bloch Equation]]: $$-\left\langle {\frac {dE}{dx}}\right\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon _{0}}}\right)^{2}\cdot \left[\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right]$$
+ - [[Tracking Detectors]]: $p \cos \lambda = 0.3 B R$
+	 - $p$ in GeV, $B$ in Tesla, $R$ in m
+ - 
 ## Fundamental Particles
+[[Standard Model]]
 ![[Pasted image 20230429161049.png]]
 
 ## Hadrons
@@ -16,9 +20,13 @@
 
 ### [[Baryons]]
 
-## Shell Model
 
-## Nuclear Equation of State
+## Nuclear
+### [[Shell Model]]
+
+### [[Nuclear Equation of State]]
+
+### [[Nuclear/Liquid Drop Model]]
 
 
 

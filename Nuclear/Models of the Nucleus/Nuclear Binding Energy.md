@@ -1,0 +1,3 @@
+ - Defined as: $$E_B = Zm_p + Nm_n - M_{Nucleus} = Zm_p + Nm_n - (M_{Atomic} - Z*m_e)$$
+ - Binding energy per nucleon for common elements: ![[Pasted image 20230507183946.png]]
+ - [[Nuclear/Models of the Nucleus/Liquid Drop Model|Liquid Drop Model]]: $${\displaystyle E_{\text{B}}=a_{\text{V}}A-a_{\text{S}}A^{2/3}-a_{\text{C}}{\frac {Z(Z-1)}{A^{1/3}}}-a_{\text{A}}{\frac {(N-Z)^{2}}{A}}+\delta (N,Z)}$$
