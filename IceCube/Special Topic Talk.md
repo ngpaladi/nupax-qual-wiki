@@ -4,24 +4,12 @@
 3. IceCube
 
 ## [[Neutrino Oscillations]]
- - Solar neutrino problem
-	 - Homestake experiment
-		 - Homestake mine, SD
-		 - 100,000 gallon tank of $\text{Cl}_2\text{C}$ (dry cleaning fluid)
-		 - ${\displaystyle \mathrm {\nu _{e}+\ ^{37}Cl\longrightarrow \ ^{37}Ar^{+}+e^{-}} }$
-		 - ~1MeV threshold
-		 - Bubble helium through to collect Ar and count
-		 - See ~1/3 expected amount of $\nu_e$
-	 - Sudbury Neutrino Observatory Experiment (SNO)
-		 - Mine in Sudbury, Ontario
-		 - Detector volume filled with heavy water
-			 - Deuterium binding energy less than solar neutrino energy
-		 - Neutrino converts the neutron in deuteron to proton, emits electron
-		 - Solar neutrinos not energetic enough to produce muon, tau
-		 - Super-K did similar analysis earlier but not conclusive for solar neutrinos
-			 - Only showed atmospheric muon neutrinos oscillate
+ - Deficit in [[Solar Neutrinos]]  
  - Reactor Experiments
 	 - Daya Bay
+ - Atmospheric Neutrinos
+	 ![[Pasted image 20230508125119.png|300]]
+ 
  - PMNS Matrix: $$\begin{pmatrix} \nu_e \\ \nu_\mu \\\nu_\tau\end{pmatrix} = \begin{pmatrix}1 & 0 & 0 \\ 0 & c_{23} & s_{23} \\ 0 & -s_{23} & c_{23}\end{pmatrix} \begin{pmatrix}c_{13} & 0 & e^{-i\delta} s_{13} \\ 0 & 1 & 0 \\ -e^{i\delta}s_{13} & 0 & c_{13}\end{pmatrix}\begin{pmatrix}c_{12} & s_{12} & 0 \\ -s_{12} & c_{12} & 0 \\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix} \nu_1 \\ \nu_2 \\\nu_3\end{pmatrix}$$
 	 - Parameterized by 3 angles: $\theta_{12},\theta_{13},\theta_{23}$ and 1 complex phase $\delta$
  - Primarily measure parameters related to $\theta_{23}$, $\Delta m_{23}^2$

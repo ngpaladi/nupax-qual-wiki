@@ -1,0 +1,17 @@
+ - From [[pp Chain]]
+ - Deficit from expected
+	 - Homestake experiment
+		 - Homestake mine, SD
+		 - 100,000 gallon tank of $\text{Cl}_2\text{C}$ (dry cleaning fluid)
+		 - ${\displaystyle \mathrm {\nu _{e}+\ ^{37}Cl\longrightarrow \ ^{37}Ar^{+}+e^{-}} }$
+		 - ~1MeV threshold
+		 - Bubble helium through to collect Ar and count
+		 - See ~1/3 expected amount of $\nu_e$
+	 - Sudbury Neutrino Observatory Experiment (SNO)
+		 - Mine in Sudbury, Ontario
+		 - Detector volume filled with heavy water
+			 - Deuterium binding energy less than solar neutrino energy
+		 - Neutrino converts the neutron in deuteron to proton, emits electron
+		 - Solar neutrinos not energetic enough to produce muon, tau
+		 - Super-K did similar analysis earlier but not conclusive for solar neutrinos
+			 - Only showed atmospheric muon neutrinos oscillate

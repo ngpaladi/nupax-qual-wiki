@@ -7,6 +7,9 @@
 [[Standard Model]]
 ![[Pasted image 20230429161049.png]]
 
+### Mixing Matrices
+![[Pasted image 20230508125656.png]]
+
 ## Hadrons
 ### [[Mesons]]
  - $P = (-1)^{L+1}$  

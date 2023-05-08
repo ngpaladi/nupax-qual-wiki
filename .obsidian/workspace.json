@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bda94b6713177395",
+        "id": "a42fed8e9d480cff",
         "type": "tabs",
         "children": [
           {
-            "id": "180cdaf87419aa08",
+            "id": "7b71cead846b3244",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230508114642.png",
+                "file": "Assets/Pasted image 20230508125023.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230508114642.png",
+                "file": "Assets/Pasted image 20230508125023.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20230508114642.png"
+                "file": "Assets/Pasted image 20230508125023.png"
               }
             }
           }
@@ -153,6 +153,16 @@
   },
   "active": "e37a19b367f5b6ab",
   "lastOpenFiles": [
+    "Stuff to Remember.md",
+    "Nuclear/Stellar Nucleosynthesis/Solar Neutrinos.md",
+    "Assets/Pasted image 20230508125656.png",
+    "Nuclear/Stellar Nucleosynthesis/Heavy Nuclei Production.md",
+    "IceCube/Special Topic Talk.md",
+    "Assets/Pasted image 20230508125233.png",
+    "Nuclear/Stellar Nucleosynthesis/pp Chain.md",
+    "Assets/Pasted image 20230508125119.png",
+    "Assets/Pasted image 20230508125023.png",
+    "IceCube/IceCube Detector.md",
     "Particle/Beyond Standard Model/Supersymmetry.md",
     "Assets/Pasted image 20230508114814.png",
     "Detectors/Synchrotron Radiation.md",
@@ -167,14 +177,8 @@
     "Particle/Beyond Standard Model/Neutrino Mass.md",
     "Assets/Pasted image 20230508113718.png",
     "Assets/Pasted image 20230508113107.png",
-    "IceCube/Special Topic Talk.md",
     "Nuclear/Deep Inelastic Scattering.md",
-    "IceCube/IceCube Detector.md",
     "SpinQuest/Thesis Talk.md",
-    "Stuff to Remember.md",
-    "Assets/Pasted image 20230508095023.png",
-    "Assets/Pasted image 20230508104255.png",
-    "Assets/Pasted image 20230508104246.png",
     "IceCube/Digital Optical Modules.md",
     "Nuclear/Nuclear Decays.md",
     "Nuclear/Beta Decay.md",
@@ -184,10 +188,6 @@
     "SpinQuest/SpinQuest.md",
     "SpinQuest/DarkQuest Specifications.md",
     "Particle/Beyond Standard Model/Neutrino Oscillations.md",
-    "Assets/Pasted image 20230508010549.png",
-    "Detectors/Cherenkov Detectors.md",
-    "Detectors/Proportional Tubes.md",
-    "Particle/Dark Matter/Lambda CDM.md",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",
