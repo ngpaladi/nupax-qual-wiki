@@ -11,7 +11,7 @@
             "id": "7b71cead846b3244",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230508125023.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230508125023.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Pasted image 20230508125023.png"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,8 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37a19b367f5b6ab",
+  "active": "7b71cead846b3244",
   "lastOpenFiles": [
+    "SpinQuest/DarkQuest Specifications.md",
+    "Assets/Pasted image 20230508165558.png",
+    "SpinQuest/Spin-Polarized Target.md",
+    "Nuclear/Quark-Gluon Plasma.md",
+    "Assets/Pasted image 20230508170018.png",
+    "Detectors/Photon Intereactions with Matter.md",
+    "Nuclear/Beta Decay.md",
+    "Detectors/Particle ID.md",
     "Stuff to Remember.md",
     "Nuclear/Stellar Nucleosynthesis/Solar Neutrinos.md",
     "Assets/Pasted image 20230508125656.png",
@@ -175,19 +179,12 @@
     "Assets/Pasted image 20230508114546.png",
     "Assets/Pasted image 20230508110512.png",
     "Particle/Beyond Standard Model/Neutrino Mass.md",
-    "Assets/Pasted image 20230508113718.png",
-    "Assets/Pasted image 20230508113107.png",
     "Nuclear/Deep Inelastic Scattering.md",
     "SpinQuest/Thesis Talk.md",
     "IceCube/Digital Optical Modules.md",
     "Nuclear/Nuclear Decays.md",
-    "Nuclear/Beta Decay.md",
     "Nuclear/Parity.md",
-    "Nuclear/Quark-Gluon Plasma.md",
     "Detectors/Bethe-Bloch Equation.md",
-    "SpinQuest/SpinQuest.md",
-    "SpinQuest/DarkQuest Specifications.md",
-    "Particle/Beyond Standard Model/Neutrino Oscillations.md",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",

@@ -1,0 +1,4 @@
+ - Time of Flight - velocity
+ - Ionization Loss - dE/dx
+ - Cherenkov radiation - velocity
+ - Transition radiation - interface of materials, radiation
