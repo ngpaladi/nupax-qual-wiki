@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "IceCube/Special Topic Talk.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuclear/Nucleon Substructure/Bjorken x.md",
+                "file": "IceCube/Digital Optical Modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Meson Os",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "IceCube/Digital Optical Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff to Remember.md",
+                "file": "IceCube/Digital Optical Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff to Remember.md"
+                "file": "IceCube/Digital Optical Modules.md"
               }
             }
           }
@@ -191,18 +192,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b71cead846b3244",
+  "active": "3b6f791fad53e7cf",
   "lastOpenFiles": [
+    "SpinQuest/Thesis Talk.md",
+    "Particle/Cosmology/CMB.md",
+    "Stuff to Remember.md",
     "IceCube/Special Topic Talk.md",
+    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
+    "SpinQuest/Transverse Momentum Distributions.md",
+    "Nuclear/Nucleon Substructure/Bjorken x.md",
+    "IceCube/MSW Effect.md",
+    "IceCube/IceCube Detector.md",
+    "IceCube/Digital Optical Modules.md",
+    "Assets/Pasted image 20230509151817.png",
+    "Particle/Dark Matter/WIMPs.md",
+    "Assets/Pasted image 20230509151936.png",
+    "Nuclear/Deuteron.md",
+    "Nuclear/Nuclear Potential.md",
+    "Assets/Pasted image 20230509145754.png",
+    "Particle/Standard Model/Meson Oscillations.md",
+    "Assets/Pasted image 20230509145510.png",
     "Assets/Pasted image 20230509121545.png",
     "SpinQuest/SpinQuest.md",
-    "SpinQuest/Transverse Momentum Distributions.md",
     "Nuclear/Nucleon Substructure/Proton Spin Problem.md",
     "Nuclear/Nucleon Substructure/Structure Functions.md",
     "Assets/Pasted image 20230509124822.png",
     "Nuclear/Nucleon Substructure/Parton Distribution Functions.md",
-    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
-    "Nuclear/Nucleon Substructure/Bjorken x.md",
     "Nuclear/Nucleon Substructure/Proton Substructure.md",
     "Nuclear/Nucleon Substructure/Form Factors.md",
     "Assets/Pasted image 20230509122935.png",
@@ -210,24 +225,11 @@
     "Particle/Cosmology/Relic Neutrinos.md",
     "Particle/Luminosity.md",
     "Particle/Beyond Standard Model/Sterile Neutrinos.md",
-    "IceCube/MSW Effect.md",
-    "Stuff to Remember.md",
     "Assets/Pasted image 20230509012922.png",
     "Particle/Standard Model/Standard Model.md",
     "Particle/Running of the Couplings.md",
-    "Particle/Dark Matter/Dark Matter.md",
-    "Particle/Standard Model/Meson Oscillations.md",
-    "Detectors/Photon Intereactions with Matter.md",
-    "Particle/Cosmology/History of the Universe.md",
-    "Particle/Cosmology/Lambda CDM.md",
-    "Particle/Cosmology/CMB.md",
-    "Particle/Dark Matter/Axions.md",
     "Pasted image 20230509011325.png",
     "Assets/Pasted image 20230509011836.png",
-    "Assets/Pasted image 20230508125119.png",
-    "Assets/Pasted image 20230508165558.png",
-    "Assets/Pasted image 20230508170018.png",
-    "Assets/Pasted image 20230508125656.png",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",

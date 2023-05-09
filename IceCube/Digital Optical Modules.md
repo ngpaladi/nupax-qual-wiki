@@ -1,3 +1,4 @@
+https://docushare.icecube.wisc.edu/dsweb/Get/Version-103436/IceCube%20performance.pdf
 
 ![[Pasted image 20230507202656.png]]
 
