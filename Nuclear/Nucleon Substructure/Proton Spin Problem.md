@@ -1,0 +1,3 @@
+ - Quark intrinsic angular momentum only contributes ~1/3 proton spin
+ - Gluon 
+ - Transverse Momentum DIstributions vanish in the absance of parton orbital angular momentum

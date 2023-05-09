@@ -17,5 +17,5 @@
 	- $\frac{n_\gamma}{n_B} \sim 10^6$
 8. Recombination: 300k yrs
 	- $H + \gamma \leftarrow p + e^-$
-	- $\gamma \rightarrow$ [[Cosmic Microwave Background]] $\rightarrow$ Now: 2.7k
+	- $\gamma \rightarrow$ [[CMB]] $\rightarrow$ Now: 2.7k
 	- 

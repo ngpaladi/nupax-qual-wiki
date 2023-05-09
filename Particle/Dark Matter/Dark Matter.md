@@ -6,7 +6,7 @@
 ## Main motivating factors:
 1. [[Galaxy Rotation Curves]]
 2. [[Gravitational Lensing]]
-3. [[Cosmic Microwave Background]]
+3. [[CMB]]
 
 
 ## Hot vs Cold
@@ -20,7 +20,8 @@
  - Dark matter must be:
 	 - Stable on cosmological timescales
 	 - Near collisionless (electrically neutral)
-	 - "Cold"/"Warm (definitely not "Hot")
+	 - "Cold"/"Warm" (definitely not "Hot")
+		 - [[Lambda CDM]]
  - Dark matter cannot be explained by the [[Standard Model]]
 	 - Only stable uncharged particles are neutrinos (too "hot")
  - [[Press-Schechter Formalism]]

@@ -11,8 +11,48 @@
             "id": "7b71cead846b3244",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stuff to Remember.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0324a415a7b7c3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpinQuest/Transverse Momentum Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "252ea2c07e47fc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b6f791fad53e7cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuclear/Nucleon Substructure/Bjorken x.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stuff to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stuff to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stuff to Remember.md"
+              }
             }
           }
         ],
@@ -149,42 +193,41 @@
   },
   "active": "7b71cead846b3244",
   "lastOpenFiles": [
-    "SpinQuest/DarkQuest Specifications.md",
-    "Assets/Pasted image 20230508165558.png",
-    "SpinQuest/Spin-Polarized Target.md",
-    "Nuclear/Quark-Gluon Plasma.md",
-    "Assets/Pasted image 20230508170018.png",
-    "Detectors/Photon Intereactions with Matter.md",
-    "Nuclear/Beta Decay.md",
-    "Detectors/Particle ID.md",
-    "Stuff to Remember.md",
-    "Nuclear/Stellar Nucleosynthesis/Solar Neutrinos.md",
-    "Assets/Pasted image 20230508125656.png",
-    "Nuclear/Stellar Nucleosynthesis/Heavy Nuclei Production.md",
     "IceCube/Special Topic Talk.md",
-    "Assets/Pasted image 20230508125233.png",
-    "Nuclear/Stellar Nucleosynthesis/pp Chain.md",
-    "Assets/Pasted image 20230508125119.png",
-    "Assets/Pasted image 20230508125023.png",
-    "IceCube/IceCube Detector.md",
-    "Particle/Beyond Standard Model/Supersymmetry.md",
-    "Assets/Pasted image 20230508114814.png",
-    "Detectors/Synchrotron Radiation.md",
+    "Assets/Pasted image 20230509121545.png",
+    "SpinQuest/SpinQuest.md",
+    "SpinQuest/Transverse Momentum Distributions.md",
+    "Nuclear/Nucleon Substructure/Proton Spin Problem.md",
+    "Nuclear/Nucleon Substructure/Structure Functions.md",
+    "Assets/Pasted image 20230509124822.png",
+    "Nuclear/Nucleon Substructure/Parton Distribution Functions.md",
+    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
+    "Nuclear/Nucleon Substructure/Bjorken x.md",
+    "Nuclear/Nucleon Substructure/Proton Substructure.md",
+    "Nuclear/Nucleon Substructure/Form Factors.md",
+    "Assets/Pasted image 20230509122935.png",
+    "Nuclear/EMC Effect.md",
+    "Particle/Cosmology/Relic Neutrinos.md",
+    "Particle/Luminosity.md",
+    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
+    "IceCube/MSW Effect.md",
+    "Stuff to Remember.md",
+    "Assets/Pasted image 20230509012922.png",
+    "Particle/Standard Model/Standard Model.md",
+    "Particle/Running of the Couplings.md",
     "Particle/Dark Matter/Dark Matter.md",
-    "Particle/Common Processes/Pair Production.md",
-    "Assets/Pasted image 20230508114642.png",
-    "Particle/Common Processes/pp Collisions.md",
-    "Particle/Common Processes/Neutrino Scattering.md",
-    "Particle/Common Processes/Light-by-Light Scattering.md",
-    "Assets/Pasted image 20230508114546.png",
-    "Assets/Pasted image 20230508110512.png",
-    "Particle/Beyond Standard Model/Neutrino Mass.md",
-    "Nuclear/Deep Inelastic Scattering.md",
-    "SpinQuest/Thesis Talk.md",
-    "IceCube/Digital Optical Modules.md",
-    "Nuclear/Nuclear Decays.md",
-    "Nuclear/Parity.md",
-    "Detectors/Bethe-Bloch Equation.md",
+    "Particle/Standard Model/Meson Oscillations.md",
+    "Detectors/Photon Intereactions with Matter.md",
+    "Particle/Cosmology/History of the Universe.md",
+    "Particle/Cosmology/Lambda CDM.md",
+    "Particle/Cosmology/CMB.md",
+    "Particle/Dark Matter/Axions.md",
+    "Pasted image 20230509011325.png",
+    "Assets/Pasted image 20230509011836.png",
+    "Assets/Pasted image 20230508125119.png",
+    "Assets/Pasted image 20230508165558.png",
+    "Assets/Pasted image 20230508170018.png",
+    "Assets/Pasted image 20230508125656.png",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",

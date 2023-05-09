@@ -19,3 +19,5 @@
 	-   Adds multiple Higgs
 	-   Hadronic and leptonic direct couplings
 	-   Weaker diphoton couplings
+- Non-thermal dark matter candidate
+	- Sufficiently decoupled

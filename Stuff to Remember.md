@@ -6,14 +6,17 @@
 ## Fundamental Particles
 [[Standard Model]]
 ![[Pasted image 20230429161049.png]]
-
+ - Couplings at $Z$ mass: $\alpha^{-1} : \alpha_W^{-1} : \alpha_S^{-1} \approx 128:30:9$
+ - Important lifetimes
+	 - Muon: $2\ \mu$s
+	 - Tau: $3\times 10^{-13}$ s
 ### Mixing Matrices
 ![[Pasted image 20230508125656.png]]
 
 ## Hadrons
 ### [[Mesons]]
  - $P = (-1)^{L+1}$  
-| Name | Quark Content | Mass | Isospin | $J^{PC}$ | $c\tau$ | Primary Decay |
+| Name | Quark Content | Mass | Isospin | $J^{PC}$ | $\tau$ | Primary Decay |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | $\pi^\pm$ | $u\overline{d}$, $d\overline{u}$| 140 MeV | $\pm$ 1 | $0^{-}$ | 8 m | $\mu^+\nu_\mu$, $\mu^-\overline{\nu}_\mu$ |
 | $\pi^0$ | $(u\overline{u}-d\overline{d})/\sqrt{2}$ | 135 MeV | 1 | $0^{-+}$ | 25 nm | $\gamma\gamma$ |

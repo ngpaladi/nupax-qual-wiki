@@ -12,7 +12,7 @@
  - Astrophysical observations have the following anomalies
 	1. [[Galaxy Rotation Curves]]
 	2. [[Gravitational Lensing]]
-	3. [[Cosmic Microwave Background]]
+	3. [[CMB]]
  - Many theories for possible particulate makeup
 	 - Heavy [[Sterile Neutrinos]]
 	 - Dark portals/sectors (e.g. [[Dark Photons]])

@@ -1,3 +1,3 @@
  - "Cosmic Web"
- - Initial conditions caused by inhomogeneities in [[Cosmic Microwave Background]]
+ - Initial conditions caused by inhomogeneities in [[CMB]]
 	 - After photon decoupling from baryonic matter, overdensities grow under gravity, collapsing into virilized structures

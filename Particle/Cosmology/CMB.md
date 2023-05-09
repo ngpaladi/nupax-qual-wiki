@@ -1,4 +1,4 @@
-
+ - Cosmic Microwave Background
  - Formed at recombination
 	 - Ionized hydrogen atoms recombine with electrons and become electrically neutral
 	 - 400M years ago

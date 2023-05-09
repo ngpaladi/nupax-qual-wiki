@@ -1,0 +1,4 @@
+ - Theoretical: $$\frac{d N}{dt} = \sigma L$$
+ - Measured: $$\frac{d N}{dt} = \frac{\sigma L}{a \epsilon}$$
+	 - $a$ is acceptance of detector (angular coverage ratio)
+	 - $\epsilon$ is efficiency of detector

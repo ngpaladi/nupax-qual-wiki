@@ -1,0 +1,16 @@
+$$E(\rho,\delta) = E(\rho,0)+E_{sym}(\rho)\delta^2 + \mathcal{O}(\delta^4)$$
+ - Relevant for neutron stars
+ - Taylor expansion of energy per particle with respect to $\delta$
+	 - $\delta = (\rho_n-\rho_p)/\rho$ is isospin asymmetry
+	 - $\rho = \rho_n + \rho_p$ is total nucleonic density
+	 - $\rho_p$, $\rho_n$ are number densities of neutrons and protons  
+ - Get $E(\rho,0)\approx E_0 = -16 \pm 1 \text{ MeV}$ from measurement of  nuclear masses
+ - Symmetry pressure $E_{sym} = S_0 + \frac{L}{3}\left(\frac{\rho-\rho_0}{\rho}\right)$
+	 - Symmetry energy $S_0\approx 30 \text{ MeV}$
+	 - Nuclear saturation density $\rho_0 = 0.14\text{ to } 0.17 \text{ fm}^{-3}$
+	 - Pressure gradient $L \sim 30 \text{ to } 87 \text{ MeV}$
+		 - Not well constrained
+ - Measure neutron skin to get L
+	 - Use polarized electron beam elastically scattered of lead nucleus
+ - Measure mirror nuclei (flipped $Z$ and $N$)
+	 - Laser spectroscopy

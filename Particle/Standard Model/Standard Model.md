@@ -2,3 +2,10 @@
 
  - U(1)$\times$SU(2)$_L \times$SU(3) Theory
  - Contains [[Strong Interactions]], [[Electroweak Interactions]], 
+ - Parameters:
+	 - 12 fermion masses
+	 - 3 coupling constants
+	 - 2 Higgs parameters -  vacuum expectation value and mass
+	 - 3+1 mixing angles + phase of CKM matrix
+	 - 1 Strong CP Phase?
+	 - 3+1 mixing angles + phase of PMNS matrix?
