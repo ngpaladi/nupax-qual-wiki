@@ -47,11 +47,9 @@
             "id": "3b6f791fad53e7cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IceCube/Digital Optical Modules.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Pasted image 20230509175441.png"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IceCube/Digital Optical Modules.md",
+                "file": "Assets/Pasted image 20230509175441.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IceCube/Digital Optical Modules.md",
+                "file": "Assets/Pasted image 20230509175441.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IceCube/Digital Optical Modules.md"
+                "file": "Assets/Pasted image 20230509175441.png"
               }
             }
           }
@@ -192,8 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6f791fad53e7cf",
+  "active": "e37a19b367f5b6ab",
   "lastOpenFiles": [
+    "Detectors/Drift Chambers.md",
+    "Assets/Pasted image 20230509175441.png",
+    "Detectors/TPCs.md",
+    "Detectors/Tracking Detectors.md",
+    "IceCube/Digital Optical Modules.md",
     "SpinQuest/Thesis Talk.md",
     "Particle/Cosmology/CMB.md",
     "Stuff to Remember.md",
@@ -203,7 +206,6 @@
     "Nuclear/Nucleon Substructure/Bjorken x.md",
     "IceCube/MSW Effect.md",
     "IceCube/IceCube Detector.md",
-    "IceCube/Digital Optical Modules.md",
     "Assets/Pasted image 20230509151817.png",
     "Particle/Dark Matter/WIMPs.md",
     "Assets/Pasted image 20230509151936.png",
@@ -224,12 +226,8 @@
     "Nuclear/EMC Effect.md",
     "Particle/Cosmology/Relic Neutrinos.md",
     "Particle/Luminosity.md",
-    "Particle/Beyond Standard Model/Sterile Neutrinos.md",
     "Assets/Pasted image 20230509012922.png",
-    "Particle/Standard Model/Standard Model.md",
-    "Particle/Running of the Couplings.md",
     "Pasted image 20230509011325.png",
-    "Assets/Pasted image 20230509011836.png",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",
