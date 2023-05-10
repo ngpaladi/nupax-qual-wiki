@@ -1,5 +1,7 @@
 ## Detectors
  - [[Bethe-Bloch Equation]]: $$-\left\langle {\frac {dE}{dx}}\right\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon _{0}}}\right)^{2}\cdot \left[\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right]$$
+	 - Minimum ionizing muon at 100 MeV - 1 GeV momentum has $\frac{1}{\rho}\frac{dE}{dx} \approx 2 \text{ (MeV cm}^2)/\text{g}$
+ - [[Bragg Peak]]: useful for radiation therapy, protons allow better targeting
  - [[Tracking Detectors]]: $p \cos \lambda = 0.3 B R$
 	 - $p$ in GeV, $B$ in Tesla, $R$ in m
  - 
@@ -11,7 +13,11 @@
 	 - Muon: $2\ \mu$s
 	 - Tau: $3\times 10^{-13}$ s
 ### Leptons
-
+| Name | Mass |Lifetime | Decays |
+| ---- | ---- | ---- | ---- |
+| $e^-$ | 511 KeV | Stable | Stable|
+| $\mu^-$ | 106 MeV | 3 $\mu\text{s}$ | $e^\pm \overline{\nu}_e \nu_\mu$  |
+| $\tau^-$ | 1.8 GeV | $3\times10^{-13} \text{ s}$ | $\nu_\tau\pi^-\pi_0$, $\nu_\tau\pi^-$, $\nu_\tau\pi^-\pi_0\pi_0$, $\nu_\tau\pi^-\pi^+\pi^-$ |
 
 ### Mixing Matrices
 ![[Pasted image 20230508125656.png]]
@@ -32,10 +38,15 @@
 
 ## Nuclear
 ### [[Shell Model]]
+ - Magic Numbers: 2, 8, 20, 28, 50, 82, 126
 
 ### [[Nuclear Equation of State]]
+$$E(\rho,\delta) = E(\rho,0)+E_{sym}(\rho)\delta^2 + \mathcal{O}(\delta^4)$$
+$$E_{sym} = S_0 + \frac{L}{3}\left(\frac{\rho-\rho_0}{\rho}\right)$$
+### [[Liquid Drop Model]]
+$${\displaystyle E_{\text{B}}=a_{\text{V}}A-a_{\text{S}}A^{2/3}-a_{\text{C}}{\frac {Z(Z-1)}{A^{1/3}}}-a_{\text{A}}{\frac {(N-Z)^{2}}{A}}+\delta (N,Z)}$$
 
-### [[Nuclear/Liquid Drop Model]]
-
-
+### [[Beta Decay]]
+ - Less parity/J change, preferable
+	 - Superallowed $J^P = 0^+ \rightarrow 0^+$
 

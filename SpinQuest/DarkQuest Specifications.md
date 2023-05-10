@@ -13,8 +13,10 @@
 | EMCal Resolution | $\sigma_E/E = 1.2\%+\frac{6.2\%}{\sqrt{E (GeV)}}$ |
 | EMCal Radiation Length $X_0$ | 21mm |
 | EMCal Dimensions (cm) | $5.25^2 \times 37.5\ (18X_0)$ |
-| TDC Timing Resolution | 1.177ns|
+| TDC Timing Resolution | 0.44 ns|
 | Readout Dead Time | 28 $\mu$s |
+| FMag B Field | 1.8 T +y|
+| KMag B Field | 0.4 T +y|
 
 
 ![[Pasted image 20230503005354.png]]

@@ -29,13 +29,14 @@
  - Decay width proportional to $\Gamma_{A' \rightarrow l^+ l^-} \propto \epsilon^2 \alpha_{EM} m_{A'}$
 	 - $\tau \propto 1/(\epsilon^2 m_{A'})$
 ## [[SpinQuest]]
-- Beam dump experiment with a [[Spin-Polarized Target]] of NH$_3$ or ND$_3$ with incident 120 GeV proton beam
+- Beam dump experiment with incident 120 GeV proton beam
 	- $\sqrt{s}$ = 15.5 GeV 
 - Primary physics goals:
-	- Measure transverse momentum dependent (TMD) parton distributions of protons
+	- Measure [[Transverse Momentum Dependent Parton Distributions|transverse momentum dependent (TMD) parton distributions]] of protons
+		-  Use a [[Spin-Polarized Target]] of NH$_3$ or ND$_3$
+			- Nitrogen provides paramagentic center for spin polarization of proton/deuteron
 		- 
 	- Displaced vertex dark matter search
-		- ALPs
 - Tracking-focused spectrometer optimized to search for asymmetry in [[Drell-Yan]] process
 	- Four tracking stations
 		- TS1-3 include [[Drift Chambers]] and scintillator panels

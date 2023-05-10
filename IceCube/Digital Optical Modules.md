@@ -11,11 +11,13 @@ https://docushare.icecube.wisc.edu/dsweb/Get/Version-103436/IceCube%20performanc
 	 - DeepCore uses higher quantum efficiency version (34% vs 25%)
 	 - Wavelength range 300nm-650nm
 	 - 10 dynodes
-	 - $10^7$ gain
+	 - $10^7$ gain (~5 electron gain per electron at a dynode)
 	 - HV supply up to 2kV
 	 - Consume ~0.3 W
  - 1cm silicone gel for optical coupling
  - Mu-metal cage shields from South Pole Magnetic field
+ - 1-2ns timing resolution
+
 ## Electronics
  - ADC
 	 - 300 Msps

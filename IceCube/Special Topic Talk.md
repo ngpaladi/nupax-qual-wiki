@@ -7,13 +7,6 @@
  - Deficit in [[Solar Neutrinos]]  
  - Reactor Experiments
 	 - Daya Bay
- - Atmospheric Neutrinos
-	 ![[Pasted image 20230508125119.png|300]]
-	 - Cosmic rays are ~95% protons, ~5% alphas, <1% heavier nuclei and electrons
-	 - Showers dominantly to $\pi^\pm$
-	 - $(\nu_\mu+\overline{\nu}_\mu)/(\nu_e+\overline{\nu}_e) \approx 2$
-	 - 
- 
  - PMNS Matrix: $$\begin{pmatrix} \nu_e \\ \nu_\mu \\\nu_\tau\end{pmatrix} = \begin{pmatrix}1 & 0 & 0 \\ 0 & c_{23} & s_{23} \\ 0 & -s_{23} & c_{23}\end{pmatrix} \begin{pmatrix}c_{13} & 0 & e^{-i\delta} s_{13} \\ 0 & 1 & 0 \\ -e^{i\delta}s_{13} & 0 & c_{13}\end{pmatrix}\begin{pmatrix}c_{12} & s_{12} & 0 \\ -s_{12} & c_{12} & 0 \\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix} \nu_1 \\ \nu_2 \\\nu_3\end{pmatrix}$$
 	 - Parameterized by 3 angles: $\theta_{12},\theta_{13},\theta_{23}$ and 1 complex phase $\delta$
  - Primarily measure parameters related to $\theta_{23}$, $\Delta m_{23}^2$
@@ -22,9 +15,17 @@
 	 - $E$ (neutrino energy)
 		 ![[Pasted image 20230508104255.png|400]]
  - Probe L/E range 0-1200 (km/GeV)
+ 
+## Atmospheric Neutrinos
+	 ![[Pasted image 20230508125119.png|300]]
+	 - [[Cosmic Rays]] are ~90% protons, ~9% alphas, ~1% heavier nuclei and electrons
+	 - Showers dominantly to $\pi^\pm$
+	 - $(\nu_\mu+\overline{\nu}_\mu)/(\nu_e+\overline{\nu}_e) \approx 2$
+	 - 
  - Measure $\nu_\mu$ dissappearance and $\nu_\tau$ appearance
 	 - $\nu_\mu$: muon tracks in detector
-	 - $\nu_\mu$ & $\nu_e$: cascades from [[Deep Inelastic Scattering]] 
+	 - $\nu_\mu$ & $\nu_e$: **cascades** from [[Deep Inelastic Scattering]] 
+
 ## [[IceCube Detector]]
 ![[Pasted image 20230508011333.png|400]]
 ![[Pasted image 20230507205239.png|400]]

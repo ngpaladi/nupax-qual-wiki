@@ -1,0 +1,3 @@
+ - Nuclei are excited and break apart
+	 - Usually eject neutrons, can be used as neutron source
+ - See [[Cosmic Rays]] in the atmosphere

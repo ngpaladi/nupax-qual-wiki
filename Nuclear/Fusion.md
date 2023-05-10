@@ -1,0 +1,6 @@
+ - Energetically favorable to not have serparate nucleons because of binding energy
+ - [[Stellar Nucelosynthesis]]
+	 - [[pp Chain]]
+	 - [[CNO Cycle]]
+	 - [[Heavy Nuclei Production]]
+ - [[Big Bang Nucleosynthesis]]

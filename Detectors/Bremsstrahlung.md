@@ -1,3 +1,5 @@
  - "Braking Radiation"
  - Radiation emitted by a slowing charged particle parallel to the dierection of motion
  - Usually from nuclear magnetic fields
+	 - $E_{crit} \sim (800\text{ MeV})/Z$
+ - 

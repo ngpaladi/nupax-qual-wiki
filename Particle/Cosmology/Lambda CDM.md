@@ -1,0 +1,1 @@
+ - Consists of an expanding universe constant ($\Lambda$) and Cold [[Dark Matter]]

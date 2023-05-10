@@ -8,53 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b71cead846b3244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IceCube/Special Topic Talk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0324a415a7b7c3b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpinQuest/Transverse Momentum Distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252ea2c07e47fc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6f791fad53e7cf",
+            "id": "818b9d0c20304f62",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Pasted image 20230509175441.png"
+                "file": "Assets/Pasted image 20230510104727.png"
+              }
+            }
+          },
+          {
+            "id": "7836369c81ae4c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Particle/Cross Section.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Meson Os",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230509175441.png",
+                "file": "Assets/Pasted image 20230510104727.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230509175441.png",
+                "file": "Assets/Pasted image 20230510104727.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20230509175441.png"
+                "file": "Assets/Pasted image 20230510104727.png"
               }
             }
           }
@@ -192,42 +167,42 @@
   },
   "active": "e37a19b367f5b6ab",
   "lastOpenFiles": [
-    "Detectors/Drift Chambers.md",
-    "Assets/Pasted image 20230509175441.png",
-    "Detectors/TPCs.md",
-    "Detectors/Tracking Detectors.md",
-    "IceCube/Digital Optical Modules.md",
-    "SpinQuest/Thesis Talk.md",
-    "Particle/Cosmology/CMB.md",
-    "Stuff to Remember.md",
-    "IceCube/Special Topic Talk.md",
-    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
-    "SpinQuest/Transverse Momentum Distributions.md",
-    "Nuclear/Nucleon Substructure/Bjorken x.md",
-    "IceCube/MSW Effect.md",
-    "IceCube/IceCube Detector.md",
-    "Assets/Pasted image 20230509151817.png",
-    "Particle/Dark Matter/WIMPs.md",
-    "Assets/Pasted image 20230509151936.png",
-    "Nuclear/Deuteron.md",
-    "Nuclear/Nuclear Potential.md",
-    "Assets/Pasted image 20230509145754.png",
-    "Particle/Standard Model/Meson Oscillations.md",
-    "Assets/Pasted image 20230509145510.png",
-    "Assets/Pasted image 20230509121545.png",
-    "SpinQuest/SpinQuest.md",
-    "Nuclear/Nucleon Substructure/Proton Spin Problem.md",
-    "Nuclear/Nucleon Substructure/Structure Functions.md",
-    "Assets/Pasted image 20230509124822.png",
-    "Nuclear/Nucleon Substructure/Parton Distribution Functions.md",
-    "Nuclear/Nucleon Substructure/Proton Substructure.md",
-    "Nuclear/Nucleon Substructure/Form Factors.md",
-    "Assets/Pasted image 20230509122935.png",
+    "Detectors/Pseudorapidity.md",
+    "Assets/Pasted image 20230510114155.png",
+    "Pasted image 20230510114124.png",
+    "Assets/Pasted image 20230510113654.png",
+    "Assets/Pasted image 20230510105546.png",
+    "Assets/Pasted image 20230510104834.png",
+    "Assets/Pasted image 20230510104727.png",
+    "Detectors/Spallation.md",
+    "Detectors/Bragg Peak.md",
+    "Particle/Cross Section.md",
     "Nuclear/EMC Effect.md",
-    "Particle/Cosmology/Relic Neutrinos.md",
-    "Particle/Luminosity.md",
-    "Assets/Pasted image 20230509012922.png",
-    "Pasted image 20230509011325.png",
+    "Nuclear/Fission.md",
+    "Detectors/Calorimeters.md",
+    "Detectors/Measurements.md",
+    "Detectors/Photon Intereactions with Matter.md",
+    "Particle/Dark Matter/WIMPs.md",
+    "Particle/Dark Matter/Press-Schechter Formalism.md",
+    "Detectors/Bethe-Bloch Equation.md",
+    "Stuff to Remember.md",
+    "Particle/Dark Matter/Dark Matter.md",
+    "Particle/Cosmology/CMB.md",
+    "Nuclear/Beta Decay.md",
+    "Nuclear/Fusion.md",
+    "Nuclear/Neutron EDM.md",
+    "Nuclear/Nuclear Decays.md",
+    "Nuclear/Nuclear Potential.md",
+    "Nuclear/Deep Inelastic Scattering.md",
+    "Nuclear/Parity.md",
+    "Nuclear/Nucleon Substructure/Neutron EDM.md",
+    "SpinQuest/Transverse Momentum Dependent Parton Distributions.md",
+    "Particle/Standard Model/Meson Oscillations.md",
+    "Particle/Neutrinos",
+    "Assets/Pasted image 20230509224139.png",
+    "Assets/Pasted image 20230509224745.png",
+    "Pasted image 20230509224720.png",
+    "Assets/Pasted image 20230509215619.png",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",
@@ -238,7 +213,6 @@
     "Untitled",
     "IceCube",
     "Particle/Beyond Standard Model",
-    "Particle/Cosmology",
     "Untitled 1.canvas"
   ]
 }

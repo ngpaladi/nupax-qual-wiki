@@ -12,4 +12,4 @@
 	  - No radiation pressure on dark matter
 	  - Separation of effects on oscillation from baryons
 	  - Model fits data well with ~5x more dark matter than normal matter
-![[Pasted image 20230503001921.png]]
+![[Pasted image 20230510104727.png]]

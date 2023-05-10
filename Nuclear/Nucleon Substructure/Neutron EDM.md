@@ -1,0 +1,7 @@
+ - Neutron electric dipole moment would violate CP symmetry
+ - Has not been found
+ - Searches include parallel and antiparallel E and B fields
+	 - Measure Larmor precession of neutron spin
+		 - $h\nu =2\mu _{{\text{n}}}B\pm 2d_{{\text{n}}}E$
+ - Best limits $<1.1\times 10^{-26} \text{ e}\cdot\text{cm}$
+ - 

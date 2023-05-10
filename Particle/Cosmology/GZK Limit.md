@@ -1,0 +1,2 @@
+ - Limit of energy of [[Cosmic Rays|Cosmic Ray]] protons $\sim 5\times 10^{19} \text{ eV}$
+ - Protons over the limit would interact with [[CMB]] photons, produce $\Delta$ resonance, and decay

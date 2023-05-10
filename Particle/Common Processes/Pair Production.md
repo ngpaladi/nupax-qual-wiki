@@ -1,2 +1,2 @@
-$\gamma^*\rightarrow e^+ + e^-$ or $2\gamma\rightarrow e^+ + e^-$
-
+ - $\gamma^*\rightarrow e^+ + e^-$ or $2\gamma\rightarrow e^+ + e^-$
+ - Occurs above $2m_e\sim 1\text{ MeV}$ limit
