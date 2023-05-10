@@ -7,7 +7,9 @@ https://arxiv.org/pdf/1706.09990.pdf
 			- Each of the [[Drift Chambers]] contains three sets of two planes of wires: u u', x x', v v' with the u,u'/v,v' planes having a stereo angle of $\pm14^\circ$
 				- Spatial resolution of ~200-300$\mu$m
 				- Drift time 100-200ns
+				- Wire spacing ~5-20mm
 				- TDC readout resolution 1.1ns
+				- Each pair of planes offset by ~cm
 			- Each station contains two layers of scintillator panels oriented perpendicularly and read out by [[PMTs]]
 				- Tracking station 3 has extra y layer
 		- TS4 sits after iron absorber wall and includes [[Proportional Tubes]] 

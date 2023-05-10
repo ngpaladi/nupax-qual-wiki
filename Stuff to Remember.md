@@ -1,10 +1,30 @@
+## General
+ - For same $E$, $\beta \gamma$ is higher for lower mass particles
+ - W jet more collimated than quark, gluon jet because W doesn't interact with rest of quark/gluon mess from the collision
+ - Scalar dark portal vs vector dark portal
+	 - Yukawa couplings for scalar, fermion-dominated couplings for vector
+ - Why does $^7$Li matter for fusion? neutron capture and fizz Tritium
+
 ## Detectors
  - [[Bethe-Bloch Equation]]: $$-\left\langle {\frac {dE}{dx}}\right\rangle ={\frac {4\pi }{m_{e}c^{2}}}\cdot {\frac {nz^{2}}{\beta ^{2}}}\cdot \left({\frac {e^{2}}{4\pi \varepsilon _{0}}}\right)^{2}\cdot \left[\ln \left({\frac {2m_{e}c^{2}\beta ^{2}}{I\cdot (1-\beta ^{2})}}\right)-\beta ^{2}\right]$$
 	 - Minimum ionizing muon at 100 MeV - 1 GeV momentum has $\frac{1}{\rho}\frac{dE}{dx} \approx 2 \text{ (MeV cm}^2)/\text{g}$
+	 
  - [[Bragg Peak]]: useful for radiation therapy, protons allow better targeting
- - [[Tracking Detectors]]: $p \cos \lambda = 0.3 B R$
-	 - $p$ in GeV, $B$ in Tesla, $R$ in m
- - 
+ - [[Tracking Detectors]]
+	 - $p \cos \lambda = 0.3 B R$
+		 - $p$ in GeV, $B$ in Tesla, $R$ in m
+	 - Spatial resolution $\sigma_x = w/\sqrt{12}$ for spacing $w$
+	 - Wire-based ([[Drift Chambers]], etc)
+		 - Gain ~$10^5$
+		 - Gases used: Ar/Xe w/ CO$_2$, CH$_4$
+		 - Draft time ~ns
+		 - Wires: ~10$\mu$m diameter, ~2mm spacing 
+		 - Variants: [[TPCs]], [[GEMs]]
+	 - Silicon Detectors
+		 - Pixels, strips
+		 - 10$\mu$m or better resolution
+ - Neutron capture
+	 - Gadalinium, (Salt b/c 100MeV neutron cross section Cl ions?)
 ## Fundamental Particles
 [[Standard Model]]
 ![[Pasted image 20230429161049.png]]
@@ -17,7 +37,9 @@
 | ---- | ---- | ---- | ---- |
 | $e^-$ | 511 KeV | Stable | Stable|
 | $\mu^-$ | 106 MeV | 3 $\mu\text{s}$ | $e^\pm \overline{\nu}_e \nu_\mu$  |
-| $\tau^-$ | 1.8 GeV | $3\times10^{-13} \text{ s}$ | $\nu_\tau\pi^-\pi_0$, $\nu_\tau\pi^-$, $\nu_\tau\pi^-\pi_0\pi_0$, $\nu_\tau\pi^-\pi^+\pi^-$ |
+| $\tau^-$ | 1.8 GeV | $3\times10^{-13} \text{ s}$ | $\nu_\tau\pi^-\pi_0$,$\nu_\tau (e^-/\mu^-) \overline{\nu}_{e/\mu}$, $\nu_\tau\pi^-$, $\nu_\tau\pi^-\pi_0\pi_0$, $\nu_\tau\pi^-\pi^+\pi^-$ |
+ - Note: $\tau$ decay includes $\pi^0$ more likely because rho resonance and kinematic freedom of three body decay
+ - 
 
 ### Mixing Matrices
 ![[Pasted image 20230508125656.png]]

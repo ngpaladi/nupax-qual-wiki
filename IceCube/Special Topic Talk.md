@@ -4,7 +4,7 @@
 3. IceCube
 
 ## [[Neutrino Oscillations]]
- - Deficit in [[Solar Neutrinos]]  
+ - First suggestion of neutrino mixing  was deficit in [[Solar Neutrinos]]  
  - Reactor Experiments
 	 - Daya Bay
  - PMNS Matrix: $$\begin{pmatrix} \nu_e \\ \nu_\mu \\\nu_\tau\end{pmatrix} = \begin{pmatrix}1 & 0 & 0 \\ 0 & c_{23} & s_{23} \\ 0 & -s_{23} & c_{23}\end{pmatrix} \begin{pmatrix}c_{13} & 0 & e^{-i\delta} s_{13} \\ 0 & 1 & 0 \\ -e^{i\delta}s_{13} & 0 & c_{13}\end{pmatrix}\begin{pmatrix}c_{12} & s_{12} & 0 \\ -s_{12} & c_{12} & 0 \\ 0 & 0 & 1\end{pmatrix}\begin{pmatrix} \nu_1 \\ \nu_2 \\\nu_3\end{pmatrix}$$
