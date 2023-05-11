@@ -1,0 +1,2 @@
+ - Proton-neutron bound state
+ - $J^P = 1^+$

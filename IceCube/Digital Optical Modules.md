@@ -5,7 +5,7 @@ https://docushare.icecube.wisc.edu/dsweb/Get/Version-103436/IceCube%20performanc
 ![[Pasted image 20230507203157.png]]
 ## Housing
  - Glass sphere manufactured in two hemispheres
-	 - Negligable frsnel effects due to similar optical number to ice
+	 - Negligable fresnel effects due to similar optical number to ice (~1.3)
 ## [[PMTs]]
  - Contain 10" diameter PMT from Hamamatsu
 	 - DeepCore uses higher quantum efficiency version (34% vs 25%)

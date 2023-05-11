@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c32da5fd4a1f0b5f",
+            "id": "6db4c41e9d45fc14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IceCube/Special Topic Talk.md",
+                "file": "Stuff to Remember.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6db4c41e9d45fc14",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stuff to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stuff to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stuff to Remember.md"
+              }
             }
           }
         ],
@@ -162,36 +157,37 @@
   },
   "active": "6db4c41e9d45fc14",
   "lastOpenFiles": [
-    "IceCube/Special Topic Talk.md",
+    "SpinQuest/Transverse Momentum Dependent Parton Distributions.md",
     "SpinQuest/Thesis Talk.md",
     "SpinQuest/SpinQuest.md",
-    "Detectors/Kalman Filter Track Fitting.md",
-    "Stuff to Remember.md",
-    "Assets/Pasted image 20230511001248.png",
-    "SpinQuest/DarkQuest Specifications.md",
-    "SpinQuest/Transverse Momentum Dependent Parton Distributions.md",
     "SpinQuest/Spectrometer.md",
-    "Detectors/Photon Intereactions with Matter.md",
+    "SpinQuest/PHENIX.md",
+    "SpinQuest/DarkQuest Upgrade.md",
+    "SpinQuest/DarkQuest Specifications.md",
+    "Particle/Scalar Field Theory.md",
+    "Particle/Luminosity.md",
+    "Particle/Helicity vs Chirality.md",
+    "Particle/Cross Section.md",
+    "Particle/Accelerators.md",
+    "Particle/Standard Model/Strong Interactions.md",
+    "Particle/Standard Model/Standard Model.md",
+    "Particle/Standard Model/Running of the Couplings.md",
+    "Particle/Standard Model/QED.md",
+    "Particle/Standard Model/Neutrinos.md",
+    "Particle/Standard Model/Meson Oscillations.md",
+    "Particle/Standard Model/Higgs Mechanism.md",
+    "Particle/Standard Model/Hadrons.md",
+    "Particle/Standard Model/Electroweak Symmetry Breaking.md",
+    "Particle/Standard Model/Electroweak Interactions.md",
+    "Particle/Standard Model/CP Violation.md",
+    "Particle/Neutrinos/Sterile Neutrinos.md",
+    "Particle/Neutrinos/Neutrino Mass.md",
+    "Particle/Neutrinos/Neutrino Scattering.md",
+    "Assets/Pasted image 20230511001248.png",
     "Assets/Pasted image 20230511001633.png",
     "Assets/Pasted image 20230511001407.png",
-    "Nuclear/Hadrons/Mesons.md",
-    "Nuclear/Hadrons/Baryons.md",
     "Assets/Pasted image 20230510230357.png",
-    "Particle/Standard Model/Higgs Mechanism.md",
-    "Nuclear/Nucleon Substructure/Structure Functions.md",
-    "Nuclear/Stellar Nucleosynthesis/Heavy Nuclei Production.md",
-    "Nuclear/Stellar Nucleosynthesis/Stellar Nucelosynthesis.md",
-    "Nuclear/Stellar Nucleosynthesis/Solar Neutrinos.md",
-    "Nuclear/Stellar Nucleosynthesis/pp Chain.md",
-    "Particle/Cosmology/History of the Universe.md",
     "Assets/Pasted image 20230510231149.png",
-    "Particle/Neutrinos/Neutrino Mass.md",
-    "IceCube/IceCube Detector.md",
-    "IceCube/Digital Optical Modules.md",
-    "Nuclear/Big Bang Nucleosynthesis.md",
-    "Particle/Luminosity.md",
-    "Nuclear/EMC Effect.md",
-    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
     "Assets/Pasted image 20230510210746.png",
     "Assets/Pasted image 20230510183459.png",
     "Assets/Pasted image 20230510194827.png",

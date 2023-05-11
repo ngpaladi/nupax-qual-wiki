@@ -1,0 +1,1 @@
+Special Case of the Higgs Mechanism for U(1)

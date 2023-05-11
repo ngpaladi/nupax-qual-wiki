@@ -1,0 +1,2 @@
+ - Place neutron in parallel/antiparallel electric and magnetic fields and measure larmor precession
+ - Current limits consistent with 0

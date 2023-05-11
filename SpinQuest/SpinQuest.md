@@ -1,6 +1,6 @@
  - Primary purpose
 	 - Solve [[Proton Spin Problem]]
-	 - Look for asymmetry in seq quark [[Transverse Momentum Dependent Parton Distributions]]
+	 - Look for asymmetry in sea quark [[Transverse Momentum Dependent Parton Distributions]]
  - Experimental Setup
 	 - [[Spin-Polarized Target]] of NH$_3$ or ND$_3$ with incident 120 GeV proton beam
 		 - $\sqrt{s}$ = 15.5 GeV 
