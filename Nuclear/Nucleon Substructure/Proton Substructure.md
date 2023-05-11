@@ -1,3 +1,0 @@
-## DGLAP 
-
-## Bjorken Scaling

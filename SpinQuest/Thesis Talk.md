@@ -35,8 +35,14 @@
 	- Measure [[Transverse Momentum Dependent Parton Distributions|transverse momentum dependent (TMD) parton distributions]] of protons
 		-  Use a [[Spin-Polarized Target]] of NH$_3$ or ND$_3$
 			- Nitrogen provides paramagentic center for spin polarization of proton/deuteron
-		- 
+		- Allows access to $\overline{u}$ and $\overline{d}$ quark Sivers functions
+			- Sivers function correlates quark transverse momenta with transverse nucleon spin
+				- Essentially angular momentum contribution 
+			- Measure asymmetry of distribution of Drell-Yan along the x-direction
+				- Flip spin of target to cancel systematics
 	- Displaced vertex dark matter search
+		- [[Kalman Filter Track Fitting]]
+
 - Tracking-focused spectrometer optimized to search for asymmetry in [[Drell-Yan]] process
 	- Four tracking stations
 		- TS1-3 include [[Drift Chambers]] and scintillator panels
@@ -48,6 +54,7 @@
 				- Tracking station 3 has extra y layer
 		- TS4 sits after iron absorber wall and includes [[Proportional Tubes]] 
 			- Contains one scintillator panel layer
+
 ![[Pasted image 20230503002135.png|400]]
 
 

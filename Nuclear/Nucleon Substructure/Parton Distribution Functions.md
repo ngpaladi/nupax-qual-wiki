@@ -3,4 +3,4 @@
 ![[Pasted image 20230509122935.png]]
  - Functions of [[Bjorken x]]
  - Can be used to define [[Structure Functions]]
- - 
+![[Pasted image 20230510183459.png]]

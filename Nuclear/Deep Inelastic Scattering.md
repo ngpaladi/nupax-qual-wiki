@@ -1,1 +1,1 @@
-Scattering an incident particle off a proton 
+Scattering an incident particle off a proton and it fully breaks apart

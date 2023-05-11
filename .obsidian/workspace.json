@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7836369c81ae4c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Detectors/Bethe-Bloch Equation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c32da5fd4a1f0b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff to Remember.md",
-                "mode": "source",
+                "file": "IceCube/Special Topic Talk.md",
+                "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "6db4c41e9d45fc14",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stuff to Remember.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,45 +160,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c32da5fd4a1f0b5f",
+  "active": "6db4c41e9d45fc14",
   "lastOpenFiles": [
     "IceCube/Special Topic Talk.md",
-    "Particle/Neutrinos/Neutrino Oscillations.md",
-    "Detectors/Bethe-Bloch Equation.md",
-    "IceCube/Digital Optical Modules.md",
+    "SpinQuest/Thesis Talk.md",
+    "SpinQuest/SpinQuest.md",
+    "Detectors/Kalman Filter Track Fitting.md",
     "Stuff to Remember.md",
+    "Assets/Pasted image 20230511001248.png",
+    "SpinQuest/DarkQuest Specifications.md",
     "SpinQuest/Transverse Momentum Dependent Parton Distributions.md",
     "SpinQuest/Spectrometer.md",
-    "SpinQuest/Spin-Polarized Target.md",
+    "Detectors/Photon Intereactions with Matter.md",
+    "Assets/Pasted image 20230511001633.png",
+    "Assets/Pasted image 20230511001407.png",
+    "Nuclear/Hadrons/Mesons.md",
+    "Nuclear/Hadrons/Baryons.md",
+    "Assets/Pasted image 20230510230357.png",
+    "Particle/Standard Model/Higgs Mechanism.md",
+    "Nuclear/Nucleon Substructure/Structure Functions.md",
+    "Nuclear/Stellar Nucleosynthesis/Heavy Nuclei Production.md",
+    "Nuclear/Stellar Nucleosynthesis/Stellar Nucelosynthesis.md",
+    "Nuclear/Stellar Nucleosynthesis/Solar Neutrinos.md",
+    "Nuclear/Stellar Nucleosynthesis/pp Chain.md",
+    "Particle/Cosmology/History of the Universe.md",
+    "Assets/Pasted image 20230510231149.png",
+    "Particle/Neutrinos/Neutrino Mass.md",
+    "IceCube/IceCube Detector.md",
+    "IceCube/Digital Optical Modules.md",
+    "Nuclear/Big Bang Nucleosynthesis.md",
+    "Particle/Luminosity.md",
+    "Nuclear/EMC Effect.md",
+    "Nuclear/Nucleon Substructure/Electron-Proton Scattering.md",
+    "Assets/Pasted image 20230510210746.png",
+    "Assets/Pasted image 20230510183459.png",
+    "Assets/Pasted image 20230510194827.png",
     "Assets/Pasted image 20230218144305.png",
     "Assets/Pasted image 20230510104727.png",
-    "Detectors/Pseudorapidity.md",
-    "Assets/Pasted image 20230510114155.png",
-    "Pasted image 20230510114124.png",
-    "Assets/Pasted image 20230510113654.png",
-    "Assets/Pasted image 20230510105546.png",
-    "Assets/Pasted image 20230510104834.png",
-    "Detectors/Spallation.md",
-    "Detectors/Bragg Peak.md",
-    "Particle/Cross Section.md",
-    "Nuclear/EMC Effect.md",
-    "Nuclear/Fission.md",
-    "Detectors/Calorimeters.md",
-    "Detectors/Measurements.md",
-    "Detectors/Photon Intereactions with Matter.md",
-    "Particle/Dark Matter/WIMPs.md",
-    "Particle/Dark Matter/Press-Schechter Formalism.md",
-    "Particle/Dark Matter/Dark Matter.md",
-    "Particle/Cosmology/CMB.md",
-    "Nuclear/Beta Decay.md",
-    "Nuclear/Fusion.md",
-    "Nuclear/Neutron EDM.md",
-    "Nuclear/Nuclear Decays.md",
-    "Nuclear/Nuclear Potential.md",
     "Particle/Neutrinos",
-    "Assets/Pasted image 20230509224139.png",
-    "Assets/Pasted image 20230509224745.png",
-    "Pasted image 20230509224720.png",
     "Nuclear/Nucleon Substructure",
     "Nuclear/Precision Measurements",
     "Nuclear/Hadrons",

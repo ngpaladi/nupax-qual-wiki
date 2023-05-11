@@ -4,7 +4,8 @@
 ![[Pasted image 20230506194616.png]]![[Pasted image 20230506194633.png]]
 ![[Pasted image 20230506194930.png]]
 ## Parity Violation
- - Comes from the Laft handedness of the weak interaction
+ - Comes from the Laft handedness of the weak interaction 
+	 - $P_L = \frac{1}{2}(1-\gamma^5)$
  - Verified in the Wu experiment
 	 - $^{60}\text{Co}$ placed in magnetic field to be spin polarized
 	 - $^{60}\text{Co} \rightarrow ^{60}\text{Ni}^* + e^- + \overline{\nu}_{e}$, excited $^{60}$Ni which emits two photons

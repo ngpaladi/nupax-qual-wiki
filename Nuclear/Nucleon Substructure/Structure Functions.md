@@ -9,4 +9,6 @@
 ## Measurements of $F_2(x,Q^2)$
  - See scaling violations, especially at low-$x$
 	 - At high $Q^2$ observe more gluons
+	 - Shape described by [[DGLAP]] equations
+	 - See also [[EMC Effect]]
  ![[Pasted image 20230509124822.png]]

@@ -31,5 +31,5 @@
 
 ## Uncertainties
  - Flux of atmospheric $\nu_\mu$
- - Energy Resolution
- - 
+ - Energy Resolution, Zenith Resolution
+ ![[Pasted image 20230510230357.png]]

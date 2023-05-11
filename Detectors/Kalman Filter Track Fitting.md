@@ -1,0 +1,3 @@
+ - Can find breakpoints in track
+	 - Where decay/brem happened etc.
+ - Feed initial guesses, let it propogate

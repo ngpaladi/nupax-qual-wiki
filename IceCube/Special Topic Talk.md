@@ -67,4 +67,8 @@
     ![[Pasted image 20230508095023.png|400]]
 	 - $\sin^2 \theta_{23} \sim 0.5$
 	 - $\Delta m^2_{32} \sim 2.4\times10^{-3} \text{ eV}^2$
-	 - 
+ 
+## Random Facts
+- ORCA detector at KM3Net similar idea but in the Medditerranean sea
+	- Use more isotropic PMT configuration
+- 
